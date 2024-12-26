@@ -1,0 +1,28 @@
+# My Portfolio
+
+This is my personal portfolio website built with HTML and CSS. It showcases my skills ,projects , etc., in web development.
+
+## Features
+
+- **Responsive Design**: Works well on both desktop and mobile devices.
+- **Sections**:
+  - **About Me**: A brief introduction to who I am.
+  - **Skills**: List of technologies I know.
+  - **Projects**: Highlights of the projects I have worked on.
+  - **Hobbies**: Information about my personal interests and activities.
+  - **Education**: Details about my academic background.
+  - **Languages**: Languages I can speak and understand.
+  - **Contact**: Information for reaching out to me.
+
+## Technologies Used
+
+- **HTML**: For structuring the website.
+- **CSS**: For styling the design and making it responsive.
+
+## Getting Started
+
+To view this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/veereshdoddamani/Task-2.git
