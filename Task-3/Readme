@@ -1,0 +1,23 @@
+# Calculator
+
+This repository contains a simple calculator application built using HTML, CSS, and JavaScript. The project allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## Features
+
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: The layout is optimized for both desktop and mobile views.
+- **User-Friendly Interface**: Easy-to-use buttons for input and clear display of results.
+
+## Technologies Used
+
+- **HTML**: Used for structuring the layout of the calculator.
+- **CSS**: Used for styling the buttons, display area, and overall layout.
+- **JavaScript**: Implements the functionality for arithmetic operations and user interactions.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/veereshdoddamani/Task-3.git
