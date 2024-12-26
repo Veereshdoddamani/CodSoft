@@ -1,0 +1,22 @@
+# Zomato Landing Page
+
+This repository contains the project for a Zomato landing page, developed as part of my internship at CodSoft. It demonstrates the use of HTML and CSS to create a clean, responsive, and user-friendly webpage for the Zomato brand.
+
+## Features
+
+- **Responsive Design**: The page is designed to look great on both desktop and mobile devices.
+- **Interactive UI**: The landing page includes interactive elements such as navigation menus, buttons, and images that contribute to the overall user experience.
+- **Clean Layout**: The layout is modern and simple, focusing on user engagement and ease of navigation.
+
+## Technologies Used
+
+- **HTML**: Used to structure the content and create the webpage elements.
+- **CSS**: Used for styling the page, including layout, colors, fonts, and responsiveness.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/veereshdoddamani/CodSoft.git
